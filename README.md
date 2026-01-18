@@ -188,4 +188,4 @@ The implementation is concise, realistic, and suitable for **academic review or 
 ---
 
 ## 🤖 Live Bot
-Telegram: https://t.me/GetaiAnswers_bot
+[Telegram Bot](https://t.me/GetaiAnswers_bot)
