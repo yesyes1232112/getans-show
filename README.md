@@ -184,3 +184,8 @@ This project demonstrates:
 * Clean, production-oriented Python architecture
 
 The implementation is concise, realistic, and suitable for **academic review or portfolio use**.
+
+---
+
+## 🤖 Live Bot
+Telegram: https://t.me/GetaiAnswers_bot
