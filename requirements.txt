@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+flask
+requests
+beautifulsoup4
+pillow
+PyPDF2
+google-generativeai
+replicate
