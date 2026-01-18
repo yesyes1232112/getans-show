@@ -1,4 +1,4 @@
-# Telegram AI Assistant Bot (No Database)
+# Telegram AI Assistant Bot 
 
 A production-oriented **Telegram AI assistant bot** designed as an academic-level software project.
 The bot provides AI-powered text understanding, document analysis, image recognition, and image generation, while implementing a **subscription + trial access model without using a database**.
