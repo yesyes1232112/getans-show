@@ -7,9 +7,9 @@ The project focuses on clean architecture, real-world logic, and lightweight dep
 
 ---
 
-## 🚀 Core Functionality
+## Core Functionality
 
-### 🤖 AI Capabilities
+### AI Capabilities
 
 * Answers **text questions** in the same language as the user
 * Analyzes **web links** and solves tests or quizzes found on pages (including Google Forms)
@@ -22,7 +22,7 @@ AI text and image understanding is powered by **Google Gemini**, while image gen
 
 ---
 
-## 🔐 Access Model
+## Access Model
 
 The bot simulates a real production access system.
 
@@ -42,7 +42,7 @@ This logic closely reflects real monetized Telegram bots.
 
 ---
 
-## 🌍 Language Support
+## Language Support
 
 The bot supports a multilingual interface:
 
@@ -55,7 +55,7 @@ AI responses automatically follow the user’s language.
 
 ---
 
-## 🧾 Commands
+## Commands
 
 ### User Commands
 
@@ -77,7 +77,7 @@ AI responses automatically follow the user’s language.
 
 ---
 
-## 🖼 Image Handling Logic
+## Image Handling Logic
 
 When a user sends an image:
 
@@ -91,7 +91,7 @@ This cleanly separates learning functionality from payment moderation.
 
 ---
 
-## 📄 Document Processing
+## Document Processing
 
 ### PDF
 
@@ -108,7 +108,7 @@ This cleanly separates learning functionality from payment moderation.
 
 ---
 
-## 💾 Storage Architecture (No Database)
+## Storage Architecture (No Database)
 
 The project intentionally avoids databases to keep deployment simple.
 
@@ -129,7 +129,7 @@ All data is persistent across restarts.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Language:** Python 3.10+
 * **Telegram Framework:** pyTelegramBotAPI (telebot)
@@ -143,7 +143,7 @@ All data is persistent across restarts.
 
 ---
 
-## 🔒 Security & Configuration
+## Security & Configuration
 
 * All secrets are stored in **environment variables**
 * No API keys or tokens are committed to the repository
@@ -160,7 +160,7 @@ All data is persistent across restarts.
 
 ---
 
-## ☁️ Deployment
+## Deployment
 
 * Designed for cloud platforms such as **Render**
 * Includes a lightweight Flask server for health checks
@@ -171,7 +171,7 @@ The bot runs continuously and recovers gracefully from errors.
 
 ---
 
-## 🎓 Project Purpose
+## Project Purpose
 
 This project demonstrates:
 
@@ -187,5 +187,5 @@ The implementation is concise, realistic, and suitable for **academic review or 
 
 ---
 
-## 🤖 Live Bot
+## Live Bot
 [Telegram Bot](https://t.me/GetaiAnswers_bot)
